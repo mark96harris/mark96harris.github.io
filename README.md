@@ -16,7 +16,7 @@ Astrophysics, B.S. | The University of New Mexico, Albuquerque (May, 2002)
 - Conducted extensive validation and verification efforts for DOD/DOE requested software suites, executing diverse simulation scenarios to assess physics-based results; compared outcomes against established analytical equations, unveiling errors for enhancement opportunities
 
 
-**Research Engineer @ EMRTCL (_March 2016 - October 2018_)**
+**Research Engineer @ EMRTCL (_January 2012 - February 2016_)**
 - Orchestrated testing and conducted extensive research on diverse energetic material platforms
 - Directed the formulation and successful execution of comprehensive testing programs, encompassing large-scale detonations, gun systems, simulant dispersion, warhead penetration, and ballistic imaging
 - Demonstrated technical prowess by authoring persuasive bids and proposals, crafting illustrative test layouts, allocating resources, and designing custom technical parts
