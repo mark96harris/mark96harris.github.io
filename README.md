@@ -5,7 +5,7 @@ Engineering, PhD | The University of New Mexico, Albuquerque (July, 2015)
 Civil Engineering, M.S. | The University of New Mexico, Albuquerque (December, 2008)
 Astrophysics, B.S. | The University of New Mexico, Albuquerque (May, 2002)
 
-### Work Experience
+## Work Experience
 **Data Scientist/Optical Analyst @ Leidos/AFRL (_November 2018 - August 2023_)**
 - Utilized atmospheric simulation software to model complex adaptive optics telescope systems.
 - Demonstrated expertise in machine and deep learning, particularly in neural network hyperparameter optimization, yielding improved Signal/Noise ratios in simulated and real optical transmission paths under turbulent atmospheric conditions
@@ -20,10 +20,21 @@ Astrophysics, B.S. | The University of New Mexico, Albuquerque (May, 2002)
 - Directed the formulation and successful execution of comprehensive testing programs, encompassing large-scale detonations, gun systems, simulant dispersion, warhead penetration, and ballistic imaging
 - Demonstrated technical prowess by authoring persuasive bids and proposals, crafting illustrative test layouts, allocating resources, and designing custom technical parts
 
-### Data Science Projects
+## Data Science Projects
+
+### Project 1 - Free Space Quantum Optics
 
 **Adaptive-Optics-Enabled Quantum Communications: A Technique for Daytime Space-To-Earth Links Adaptive-Optics-Enabled Quantum Communications: A Technique for Daytime Space-To-Earth Links
 Physical Review Applied · Jul 29, 2021**
 ![](https://github.com/mark96harris/mark96harris.github.io/assets/126911211/716d490a-cf41-49a3-a0f6-05910c2e3642)
 
-> Figure a, A very dense plot showing how we have combined 6 variables of our experimental results showing that Adaptive Optics can increase quantum channel efficiencies by more that 10 dB while spacially filtering daytime background light at the diffraction limit.  This plot is using 1 x HV 5/7 turbulence profile, Open/Closed Loop AO, Strehl ratio, r~o~ spacial coherence, rho^2^ scintillation index - all important atmospheric turbulence parameters
+> Figure a, A very dense plot showing how we have combined 6 variables of our experimental results showing that Adaptive Optics can increase quantum channel efficiencies by more that 10 dB while spacially filtering daytime background light at the diffraction limit.  This plot is using 1 x HV 5/7 turbulence profile, Open/Closed Loop AO, Strehl ratio, r~o~ spacial coherence, rho^2^ scintillation index - all crucial atmospheric turbulence parameters
+
+### Project 2 - Optimizing Quantum Communication 
+
+**Quantum Communication over Atmospheric Channels: A Framework for Optimizing Wavelength and FilteringQuantum Communication over Atmospheric Channels: A Framework for Optimizing Wavelength and Filtering
+Physical Review Applied · Oct 18, 2021**
+
+
+
+> The (a),(b) atmospheric transmission η~trans~ and spectral radiance Hb and (c),(d) the key-bit rate R^(i)^~KB~ for the summersolstice with high visibility (50 km), plotted as a function of r~0~. In this case, we narrow the spectral filter width to λ = 0.05-nm.  These plots lead us to believe that shorter wavelengths are a more optimal choice when working Quantum Key Rate equations found in the literature of the above publication.
