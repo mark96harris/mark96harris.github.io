@@ -15,10 +15,12 @@ Astrophysics, B.S. | The University of New Mexico, Albuquerque (May, 2002)
 - Directed efforts in DoD Directed Energy software (HELCOMES, HELEEOS, ETB, etc.) for simulating optical transmission of high-power laser light through dynamic atmospherics, along with proficiency in High Power Radio and Microwave interactions (JREM) and size, weight, power, and thermal management models for High Energy Laser systems, including hybrid gas/fiber lasers (DPAL)
 - Conducted extensive validation and verification efforts for DOD/DOE requested software suites, executing diverse simulation scenarios to assess physics-based results; compared outcomes against established analytical equations, unveiling errors for enhancement opportunities
 
-
 **Research Engineer @ EMRTCL (_January 2012 - February 2016_)**
 - Orchestrated testing and conducted extensive research on diverse energetic material platforms
 - Directed the formulation and successful execution of comprehensive testing programs, encompassing large-scale detonations, gun systems, simulant dispersion, warhead penetration, and ballistic imaging
 - Demonstrated technical prowess by authoring persuasive bids and proposals, crafting illustrative test layouts, allocating resources, and designing custom technical parts
 
 ### Projects
+**Adaptive-Optics-Enabled Quantum Communications: A Technique for Daytime Space-To-Earth LinksAdaptive-Optics-Enabled Quantum Communications: A Technique for Daytime Space-To-Earth Links
+Physical Review Applied · Jul 29, 2021**
+
