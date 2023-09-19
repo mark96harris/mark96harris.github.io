@@ -20,7 +20,9 @@ Astrophysics, B.S. | The University of New Mexico, Albuquerque (May, 2002)
 - Directed the formulation and successful execution of comprehensive testing programs, encompassing large-scale detonations, gun systems, simulant dispersion, warhead penetration, and ballistic imaging
 - Demonstrated technical prowess by authoring persuasive bids and proposals, crafting illustrative test layouts, allocating resources, and designing custom technical parts
 
-### Projects
+### Data Science Projects
+
 **Adaptive-Optics-Enabled Quantum Communications: A Technique for Daytime Space-To-Earth LinksAdaptive-Optics-Enabled Quantum Communications: A Technique for Daytime Space-To-Earth Links
 Physical Review Applied · Jul 29, 2021**
 ![](https://github.com/mark96harris/mark96harris.github.io/assets/126911211/716d490a-cf41-49a3-a0f6-05910c2e3642)
+[^1]:Figure a, A very dense plot showing how we have combined 6 variables of our experimental results showing that AO can increase quantum channel efficiencies by more that 10 dB while spacially filtering daytime background light at the diffraction limit.  This plot is using 1 x HV 5/7 turbulence profile, Open/Closed Loop Adaptive Optics, Strehl ratio, r~o~ spacial coherence, rho^2^ scintillation index - all important atmospheric turbulence parameters.
