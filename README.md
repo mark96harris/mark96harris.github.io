@@ -23,4 +23,4 @@ Astrophysics, B.S. | The University of New Mexico, Albuquerque (May, 2002)
 ### Projects
 **Adaptive-Optics-Enabled Quantum Communications: A Technique for Daytime Space-To-Earth LinksAdaptive-Optics-Enabled Quantum Communications: A Technique for Daytime Space-To-Earth Links
 Physical Review Applied · Jul 29, 2021**
-
+![](https://github.com/mark96harris/mark96harris.github.io/assets/126911211/716d490a-cf41-49a3-a0f6-05910c2e3642)
