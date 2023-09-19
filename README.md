@@ -26,4 +26,4 @@ Astrophysics, B.S. | The University of New Mexico, Albuquerque (May, 2002)
 Physical Review Applied · Jul 29, 2021**
 ![](https://github.com/mark96harris/mark96harris.github.io/assets/126911211/716d490a-cf41-49a3-a0f6-05910c2e3642)
 
-> Figure a, A very dense plot showing how we have combined 6 variables of our experimental results showing that Adaptive Optics can increase quantum channel efficiencies by more that 10 dB while spacially filtering daytime background light at the >diffraction limit.  This plot is using 1 x HV 5/7 turbulence profile, Open/Closed Loop AO, Strehl ratio, r~o~ spacial coherence, rho^2^ scintillation index - all important atmospheric turbulence parameters
+> Figure a, A very dense plot showing how we have combined 6 variables of our experimental results showing that Adaptive Optics can increase quantum channel efficiencies by more that 10 dB while spacially filtering daytime background light at the diffraction limit.  This plot is using 1 x HV 5/7 turbulence profile, Open/Closed Loop AO, Strehl ratio, r~o~ spacial coherence, rho^2^ scintillation index - all important atmospheric turbulence parameters
