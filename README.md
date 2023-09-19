@@ -37,4 +37,4 @@ Physical Review Applied · Oct 18, 2021**
 ![](https://github.com/mark96harris/mark96harris.github.io/assets/126911211/dd6cc096-3716-4645-b421-0dc581c2d43f)
 
 
-> The (a),(b) atmospheric transmission ηtrans and spectral radiance Hb and (c),(d) the key-bit rate R^i^ KB for the summersolstice with high visibility (50 km), plotted as a function of ro. In this case, we narrow the spectral filter width to lambda = 0.05-nm.  These plots lead us to believe that shorter wavelengths are a more optimal choice when working Quantum Key Rate equations found in the literature of the above publication.
+> The (a),(b) atmospheric transmission ηtrans and spectral radiance Hb and (c),(d) the key-bit rate R^i^ KB for the summersolstice with high visibility (50 km), plotted as a function of ro. In this case, we narrow the spectral filter width to 0.05 nm.  These plots lead us to believe that shorter wavelengths are a more optimal choice when working Quantum Key Rate equations found in the literature of the above publication.
