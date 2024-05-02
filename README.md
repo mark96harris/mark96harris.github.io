@@ -6,6 +6,11 @@ Civil Engineering, M.S. | The University of New Mexico, Albuquerque (December, 2
 Astrophysics, B.S. | The University of New Mexico, Albuquerque (May, 2002)
 
 ## Work Experience
+**Senior Data Scientist @ Barbaricum (_October 2023 - April 2024_)**
+- Design, configure, develop, test, and support data science solutions for a wide array of condition-based maintenance use cases, to include NLP and sensor-based algorithms.
+- Conduct complex data assessments to determine operational utility of proposed data sets in answering priority requirements while developing and maintaining data pipelines to ingest applicable data into AI/ML engines and tools
+- Experiment against data points, provide information based on experiment results and provide previously undiscovered solutions to command data challenges
+
 **Data Scientist/Optical Analyst @ Leidos/AFRL (_November 2018 - August 2023_)**
 - Utilized atmospheric simulation software to model complex adaptive optics telescope systems.
 - Demonstrated expertise in machine and deep learning, particularly in neural network hyperparameter optimization, yielding improved Signal/Noise ratios in simulated and real optical transmission paths under turbulent atmospheric conditions
